@@ -25,10 +25,10 @@ const Footer = () => {
           </div>
           <div>
             <h4>Developed by</h4>
-            <p>Muhammad Fairooz</p>
+            <p>test</p>
             <div className="social-icons">
               <a
-                href="https://fairooz2150.github.io/Fairooz/"
+                href="http://github.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
